@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="jadePink">#f54d80</color>
+    <color name="jadeTeal">#3cd5af</color>
+    <color name="jadeAccent">#ffffff</color>
+</resources>
